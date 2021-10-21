@@ -8,5 +8,7 @@ If you improvise or skip any step, the results are not My Cause. If things worke
 
 One Advice: Use Your educated Judgement regarding the Versions. I have created the guidelines for the following package configureation:
 
-* python==3.8 | tensorflow-gpu==2.4.1 | 
+* python==3.7 | tensorflow-gpu==2.4.1 | CUDA==11.0 | CUdnn==8.0
+
+
 Thanks!
