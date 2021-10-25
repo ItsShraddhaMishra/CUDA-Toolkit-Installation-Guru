@@ -1,4 +1,4 @@
-# Linux-Installation-Guru
+# CUDA Toolkit-Installation-Guru
 #### The Correct FuckUp-Proof way of getting things done on Linux.
 Now that you are here, I know You have Suffered your share already!
 
